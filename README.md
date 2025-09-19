@@ -18,19 +18,6 @@ The app is powered by a **Random Forest Classifier**, trained on the **UCI Fores
 
 ---
 
-## 📂 Project Structure  
-
-forest-fire-prediction/
-│── forest_fire_app.py       # Main Streamlit app
-│── forestfires.csv          # Dataset (UCI Forest Fires)
-│── fire_risk_model.pkl      # Saved trained model (auto-generated)
-│── requirements.txt         # Dependencies
-│── README.md                # Project documentation
-
-
-
----
-
 ## 📊 Dataset  
 
 - Dataset: [UCI Forest Fires Dataset](https://archive.ics.uci.edu/ml/datasets/forest+fires)  
