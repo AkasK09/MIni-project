@@ -51,5 +51,18 @@ Clone the repository:
 git clone https://github.com/your-username/forest-fire-prediction.git
 cd forest-fire-prediction
 
-
 Create a virtual environment (recommended):
+python -m venv venv
+source venv/bin/activate   # On Mac/Linux
+venv\Scripts\activate      # On Windows
+
+Install dependencies:
+pip install -r requirements.txt
+
+▶️ Usage
+
+Run the Streamlit app:
+streamlit run app.py
+The app will open in your browser at: http://localhost:8501/
+
+
