@@ -8,9 +8,9 @@ The app is powered by a **Random Forest Classifier**, trained on the **UCI Fores
 ## 🚀 Features  
 🔹 Train and evaluate a Random Forest model  
 🔹 Predict **High/Low fire risk** based on:
-    - 🌡️ Temperature (°C)  
-    - 💧 Humidity (%)  
-    - 💨 Wind Speed (km/h)  
+  - 🌡️ Temperature (°C)  
+  - 💧 Humidity (%)  
+  - 💨 Wind Speed (km/h)  
 🔹 Display **prediction probability**  
 🔹 Show **model accuracy**  
 🔹 Visualize **feature importance** (temperature, humidity, wind)  
